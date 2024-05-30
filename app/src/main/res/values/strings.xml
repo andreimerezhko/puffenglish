@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PuffEnglish</string>
+    <string name="start">Начать</string>
+    <string name="back">В меню</string>
+    <string name="back_slide">Назад</string>
+    <string name="next_slide">Далее</string>
+    <string name="test">Уровень: </string>
+    <string name="test_level1">Уровень: 1</string>
+    <string name="test_level2">Уровень: 2</string>
+    <string name="test_level3">Уровень: 3</string>
+    <string name="test_level4">Уровень: 4</string>
+    <string name="test_level5">Уровень: 5</string>
+    <string name="test_level6">Уровень: 6</string>
+    <string name="test_level7">Уровень: 7</string>
+    <string name="test_level8">Уровень: 8</string>
+    <string name="test_level9">Уровень: 9</string>
+    <string name="test_level10">Уровень: 10</string>
+    <string name="btn_continue">Продолжить</string>
+</resources>
