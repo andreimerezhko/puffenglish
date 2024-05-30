@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title1">Основы приветствия и прощания</string>
+    <string name="title2">Личная информация</string>
+    <string name="title3">Числа и счет</string>
+    <string name="title4">Дни недели и месяцы</string>
+    <string name="title5">Семья и друзья</string>
+    <string name="title6">Еда и напитки </string>
+    <string name="title7">Жилище и местоположение</string>
+    <string name="title8">Описание внешности и характера</string>
+    <string name="title9">Места развлечений</string>
+    <string name="title10">Животные</string>
+    <string name="levels1">Elementary</string>
+</resources>
